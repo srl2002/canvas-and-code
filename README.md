@@ -4,7 +4,7 @@
 
 A personal portfolio website for **Surabhi Lambe** — Senior Model Validation Analyst at Deutsche Bank and canvas painter. Built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no dependencies, no build steps.
 
-**Live site:** [your-username.github.io/canvas-and-code](https://srl2002.github.io/canvas-and-code/)
+**Live site:** [srl2002.github.io/canvas-and-code](https://srl2002.github.io/canvas-and-code/)
 
 ---
 
